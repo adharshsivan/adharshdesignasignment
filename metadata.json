@@ -1,0 +1,6 @@
+{
+  "name": "Design Unleashed — Adobe Tools & Logo Design",
+  "description": "An interactive presentation deck covering InDesign, After Effects, and logo design fundamentals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
